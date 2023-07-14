@@ -1,0 +1,9 @@
+"Records":[
+{
+  "EventSource":"aws:sns"
+  "sns":{
+      "Message": "{\"Message\":{\"Severity\":\"high\",\"ARN\":\"Dummy\",\"Account\":\"TestAccount\",\"summary\": \"Matchme\"}"
+}
+
+}
+]
